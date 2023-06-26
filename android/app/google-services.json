@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402468192622",
+    "project_id": "dzenshop-1fb49",
+    "storage_bucket": "dzenshop-1fb49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402468192622:android:f7eb6ead2970b3b2a4017f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402468192622-cmog9cct70m8lkrp186i6qopq3eq9rbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1CeLONxQLqeEUGaC8GbuQJSKA33cY40Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402468192622-cmog9cct70m8lkrp186i6qopq3eq9rbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
